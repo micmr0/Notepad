@@ -7,5 +7,5 @@ Version 1.0
   * Edit
   * Chosing theme
   * Change text color
-  * contex t (copy, paste, append, select All)
+  * context (copy, paste, append, select All)
   * simple search (count times word occurred )
